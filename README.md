@@ -14,7 +14,8 @@ Repository consists of 7 main files.
 		a. The actual simulation
 		b. Has been modified to only intake 15 rankings as 2 paywalled rankings were removed
 		c. Ensure the rankings are in the same directory (rnk1.txt, rnk2.txt etc) as the script reads these in
-    d. There are some comments in this code but it is not overly user-friendly
+		d. There are some comments in this code but it is not overly user-friendly
+		e. Admittedly, hard-coding the dictionary of players is stupid
 	5. Rankings.zip
 		a. A zip of the txt versions of the rankings
 		b. Needs to be exported into the same directory as the sim in order for that to run
